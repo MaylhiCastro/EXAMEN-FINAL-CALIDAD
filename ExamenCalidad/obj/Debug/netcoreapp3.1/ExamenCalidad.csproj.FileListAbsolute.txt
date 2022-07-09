@@ -1,0 +1,167 @@
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.exe
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.deps.json
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.runtimeconfig.json
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.runtimeconfig.dev.json
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.Views.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.Views.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.csproj.AssemblyReference.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.AssemblyInfoInputs.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.AssemblyInfo.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.csproj.CoreCompileInputs.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorAssemblyInfo.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorAssemblyInfo.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\staticwebassets\ExamenCalidad.StaticWebAssets.Manifest.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\staticwebassets\ExamenCalidad.StaticWebAssets.xml
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExamenCalidad.styles.css
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.TagHelpers.input.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.TagHelpers.output.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorCoreGenerate.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorTargetAssemblyInfo.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorTargetAssemblyInfo.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.Views.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.genruntimeconfig.cache
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.csproj.CopyComplete
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\create.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Index.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Gastos\Create.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Gastos\Index.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Ingresos\Create.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Ingresos\Index.cshtml.g.cs
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elber\source\repos\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.StaticWebAssets.xml
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.exe
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.deps.json
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.runtimeconfig.json
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.runtimeconfig.dev.json
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.Views.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\ExamenCalidad.Views.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.csproj.AssemblyReference.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.AssemblyInfoInputs.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.AssemblyInfo.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.csproj.CoreCompileInputs.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.MvcApplicationPartsAssemblyInfo.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorAssemblyInfo.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorAssemblyInfo.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\staticwebassets\ExamenCalidad.StaticWebAssets.Manifest.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.TagHelpers.input.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.TagHelpers.output.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorCoreGenerate.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\create.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Index.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Gastos\Create.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Gastos\Index.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Ingresos\Create.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Ingresos\Index.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorTargetAssemblyInfo.cache
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.RazorTargetAssemblyInfo.cs
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.Views.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.csproj.CopyComplete
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.dll
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.pdb
+D:\CURSOS UPN\8° CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\ExamenCalidad\ExamenCalidad\obj\Debug\netcoreapp3.1\ExamenCalidad.genruntimeconfig.cache

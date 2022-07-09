@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ExamenCalidad.Models.GastosC>
+@{ ViewData["Title"] = "Lista de Gastos"; }
+
+<div class="container">
+    <div class="row ">
+
+        <div class="col-sm-2">
+            <a class="btn btn-info d-block" id="agregarNuevoGasto" asp-action="Create" asp-controller="Gastos"></a>
+        </div>
+    </div>
+
+
+    <div class="row mt-3 ">
+        <div class="col-sm-12">
+
+            <table class="table table-bordered" id="datatable">
+                <thead class="thead-dark">
+                    <tr>
+                        <td>Cuenta</td>
+                        <td>Fecha de Gasto</td>
+                        <td>Descripcion</td>
+                        <td>Monto</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+        <tr>
+            <td>@item.Cuenta.Nombre</td>
+            <td>@item.FechaHora</td>
+            <td>@item.Descripcion</td>
+            <td>@item.Monto</td>
+
+        </tr>}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
